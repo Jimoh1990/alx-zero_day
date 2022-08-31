@@ -1,2 +1,2 @@
 my first readme
-programming engineer
+good programmer
